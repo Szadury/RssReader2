@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "582532877519",
+    "firebase_url": "https://prm-3-rss.firebaseio.com",
+    "project_id": "prm-3-rss",
+    "storage_bucket": "prm-3-rss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582532877519:android:8cd8f583bc7fefaf987bba",
+        "android_client_info": {
+          "package_name": "com.pjwstk.prm.rssreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582532877519-s7vuh8b5ddsj4qc4lifmrkk0snmtfpsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pjwstk.prm.rssreader",
+            "certificate_hash": "05fad5238aebe4da48671cabdaaa6f1b2b1cf879"
+          }
+        },
+        {
+          "client_id": "582532877519-2rknhk3turvrh3vupdql7c8ltt957r37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjXx6fCFrTEy9KPWW9-rL-sLm53pXK1Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582532877519-2rknhk3turvrh3vupdql7c8ltt957r37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="zaloguj">Zaloguj</string>
+    <string name="has_o">hasło</string>
+    <string name="email">email</string>
+    <string name="rss_logo">rss logo</string>
+    <string name="zarejestruj">Zarejestruj</string>
+    <string name="polsat_sport_news">Polsat Sport News</string>
+    <string name="wyloguj">Wyloguj</string>
+    <string name="wr">Wróć</string>
+</resources>
